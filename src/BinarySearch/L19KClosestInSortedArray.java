@@ -1,2 +1,4 @@
-package BinarySearch;public class L19KClosestInSortedArray {
+package BinarySearch;
+
+public class L19KClosestInSortedArray {
 }
