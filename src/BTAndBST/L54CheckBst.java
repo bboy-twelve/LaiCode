@@ -1,4 +1,4 @@
-package BinarySearch;
+package BTAndBST;
 
 import BTAndBST.TreeNode;
 
