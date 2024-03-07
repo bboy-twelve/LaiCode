@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2e7aba-c6ad-4d52-aee3-89b85fb4ccbf" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/src/BTAndBST/L48SymmetriBT.java" afterDir="false" />
+    <list default="true" id="fc2e7aba-c6ad-4d52-aee3-89b85fb4ccbf" name="Changes" comment="Binary Tree training laicode 48 updat">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/L50TweakedIdenticalBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/L52SearchInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/L54CheckBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/L55GetKeysInBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +106,7 @@
       <workItem from="1708112786422" duration="6306000" />
       <workItem from="1708368114157" duration="3982000" />
       <workItem from="1708375113445" duration="1750000" />
+      <workItem from="1709753568711" duration="7202000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <option name="closed" value="true" />
@@ -144,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708374903927</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Binary Tree training laicode 48 updat">
+      <option name="closed" value="true" />
+      <created>1709753919240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709753919240</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Binary Tree training laicode 48 updat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree training laicode 48 updat" />
   </component>
 </project>
